@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.betterform</groupId>
 	<artifactId>betterform-exist</artifactId>
-	<version>5.1-SNAPSHOT-20150603</version>
+	<version>5.1-SNAPSHOT-20150923</version>
 	<name>betterFORM eXist extension</name>
 	<url>http://www.betterform.de</url>
 
